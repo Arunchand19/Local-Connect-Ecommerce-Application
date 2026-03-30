@@ -12,6 +12,7 @@ The application integrates Stripe for secure, reliable, and seamless payment pro
 
 Built using the MERN stack (MongoDB, Express.js, Node.js, and React.js), Local Connect combines a responsive user interface with efficient backend architecture to deliver a scalable, smooth, and user-friendly experience for both customers and service providers.
 
+
 <img width="1919" height="918" alt="Screenshot 2025-04-28 002815" src="https://github.com/user-attachments/assets/cc5b9c4b-3030-4077-821e-d753dc365c40" />
 <img width="1900" height="910" alt="Screenshot 2025-04-28 002846" src="https://github.com/user-attachments/assets/feb024c6-679a-4319-9efe-c4bae824829a" />
 <img width="1919" height="914" alt="Screenshot 2025-04-28 003327" src="https://github.com/user-attachments/assets/e32e965a-47b8-4916-8c88-7345b246a08c" />
