@@ -1,8 +1,11 @@
 # Local Connect E-commerce Platform
 
 A Full-Stack E-commerce platform connecting local services and products.
-### Local-Connect E-commerce Documentation: 
-Software Engineering Document (Local-Connect-Final).pdf — available in the Files section.
+### Local-Connect E-commerce Documentation:
+
+```text
+Software_Engineering_Document(Local-Connect-Final).pdf — available in the Files section.
+```
 
 ## Introduction
 
